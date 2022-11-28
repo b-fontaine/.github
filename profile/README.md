@@ -3,6 +3,9 @@
 Cet espace est dédié aux exemples et supports de cours gratuits (MooC, Dojos, BBL). Après un peu de ménage, 
 les repositories proposeront une documentation complète et un lien vers tout ce qui lui est associé (vidéo Youtube, par exemple)
 
+## Qui suis-je ?
+
+Je suis **Benoît FONTAINE**
 
 Après 22 ans d'expérience dans de nombreuses technologies (GED, BPMS, BI, ERP, Web, Mobile, etc.) 
 pour divers coeurs de métier (Baptiment, Travaux Publiques, Finances, Institutions, etc.), 
@@ -15,3 +18,8 @@ En tant que freelance, mes domaines d'espertise sont :
 - Audit et accompagnement dans la gestion des processus digitaux (GED, BPMS, GPAO, etc) et la transformation digitale
 
 
+Vous pouvez me suivre sur :
+- Mon site : [benoitfontaine.fr](https://benoitfontaine.fr)
+- Mon medium : [blog.benoitfontaine.fr](https://blog.benoitfontaine.fr)
+- Mon notion : [bfontaine.notion.site](https://bfontaine.notion.site)
+- Ma chaîne Youtube : [youtube.com/@benoitfontaine](https://www.youtube.com/@benoitfontaine)
