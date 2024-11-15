@@ -15,6 +15,7 @@ Mes domaines d'espertise sont :
 - Le développement front web et mobile (Flutter, React, Kotlin/Compose et Swift/SwiftUI)
 - La formation (Flutter, Notion, Craft, etc)
 - Coaching et mentoring Software Craftmanship (TDD, BDD, DDD, Clean, etc)
+- Animation de conférences / talks
 
 
 Vous pouvez me suivre sur :
