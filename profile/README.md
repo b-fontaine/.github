@@ -22,3 +22,4 @@ Vous pouvez me suivre sur :
 - Mon medium : [blog.benoitfontaine.fr](https://blog.benoitfontaine.fr)
 - Mon notion : [bfontaine.notion.site](https://bfontaine.notion.site)
 - Ma chaîne Youtube : [youtube.com/@benoitfontaine](https://www.youtube.com/@benoitfontaine)
+- Mon linked-in : [b-fontaine](https://www.linkedin.com/in/b-fontaine/)
